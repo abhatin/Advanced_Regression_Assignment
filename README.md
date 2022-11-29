@@ -14,3 +14,19 @@ The company wants to know:
 - To be used by the management to understand how exactly the prices vary with the variables.
 - To formulate the strategy of the firm and concentrate on areas that will yield high returns.
 - Way for management to understand the pricing dynamics of a new market.
+
+## Observations
+
+#### Optimal Value of Alpha for Ridge: 0.3
+#### Optimal Value of Alpha for Lasso: 0.0001 
+
+Top 5 predictor values are 
+- TotalBsmtSF
+- GrLivArea
+- KitchenAbvGr
+- MSZoning_FV
+- Functional_Sev
+
+
+## Technologies Used
+Python Libraries numpy, pandas, matplotlib.pyplot, seaborn, sklearn, statsmodel, linear regression, Ridge and Lasso Regularization
